@@ -22,7 +22,7 @@ html{
 }
 
 body{
-    background: #fffdd7;
+    background:  linear-gradient(90deg, #f9fddb, #e9ffbf, #bddeff);
     padding-left: 30rem;
 }
 
@@ -76,7 +76,7 @@ section{
 header{
     position: fixed;
     top:0; left:0; bottom:0;
-    background:#222;
+    background:linear-gradient(90deg, #3e004a, #4120a9);
     display: flex;
     align-items: center;
     justify-content: space-between;
