@@ -35,3 +35,6 @@ document.querySelectorAll('a').forEach(links =>{
 
 });
 
+function demo(){
+    alert("Hii There");
+}
